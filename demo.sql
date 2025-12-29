@@ -1,1 +1,3 @@
-SELECT * FROM ventas LIMIT 10
+SELECT * 
+    FROM ventas 
+    LIMIT 10
