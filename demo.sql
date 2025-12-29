@@ -1,2 +1,1 @@
-SELECT *
-	FROM ventas
+SELECT * FROM ventas LIMIT 10
